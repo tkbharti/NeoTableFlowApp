@@ -1,4 +1,4 @@
-<img width="319" height="200" alt="image" src="https://github.com/user-attachments/assets/e48ffa90-2b10-4508-a692-836abbe08444" />
+<img width="736" height="263" alt="image" src="https://github.com/user-attachments/assets/f12d5439-4f0e-46bd-a6d6-0284f3f9e6f7" />
 
 
 # Full-Stack Drag-and-Drop Table Application
