@@ -136,12 +136,9 @@ const LoginPage = () => {
 			  className={`btn btn-${theme.color}`}>Login</button> 
 			</form>
 		<div className={`txt-${theme.color}`}>
-		  <div style={{padding:'10px'}}>Powered By</div>
-		  <div>Tarun Bharti</div>
+		  <div style={{padding:'10px'}}>Powered By : tarunverse.tech </div> 
 		</div>				
-		  </div>
-
-		  
+		  </div> 
 
 		</div>
 	 );  
