@@ -1,3 +1,5 @@
+<img width="225" height="135" alt="image" src="https://github.com/user-attachments/assets/451196b0-4c41-4faa-a117-c7e8ee6ec426" />
+
 # Full-Stack Drag-and-Drop Table Application
 A robust React and Node.js application that enables users to seamlessly drag and drop records between different data tables, with persistent storage powered by SQLite 
 and support of multi row Drag Drop Feature Between Tables.
@@ -5,6 +7,7 @@ and support of multi row Drag Drop Feature Between Tables.
 # To start the app use following command -> Go to App directory
 
 -npm i
+
 -npm run dev
 
   
