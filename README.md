@@ -1,4 +1,5 @@
-<img width="225" height="135" alt="image" src="https://github.com/user-attachments/assets/451196b0-4c41-4faa-a117-c7e8ee6ec426" />
+<img width="319" height="200" alt="image" src="https://github.com/user-attachments/assets/e48ffa90-2b10-4508-a692-836abbe08444" />
+
 
 # Full-Stack Drag-and-Drop Table Application
 A robust React and Node.js application that enables users to seamlessly drag and drop records between different data tables, with persistent storage powered by SQLite 
