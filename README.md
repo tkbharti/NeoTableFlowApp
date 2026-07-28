@@ -11,6 +11,33 @@ and support of multi row Drag Drop Feature Between Tables.
 
 -npm run dev
 
+# Features
+
+✔ Bootstrap UI (Tabulator-like look)
+
+✔ Two tables side-by-side
+
+✔ Groups with toggle expand/collapse
+
+✔ Add Group Modal
+
+✔ Add Record Modal (with group dropdown — Option A)
+
+✔ Search box per table
+
+✔ Checkboxes in right table
+
+✔ Save button for full JSON
+
+✔ Zero-item groups remain droppable
+
+✔ LocalStorage persistence
+
+✔ Auto-focus in modal
+
+✔ Drag & drop in both directions (copy or move)
+
+
   
 ## Login
 
@@ -33,6 +60,7 @@ and support of multi row Drag Drop Feature Between Tables.
 #
 
 <img width="955" height="514" alt="image" src="https://github.com/user-attachments/assets/98e14a11-22d8-4ac4-af93-329e206ce9ad" />
+
 
 
 
